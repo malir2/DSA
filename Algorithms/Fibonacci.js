@@ -19,5 +19,6 @@ function fibonacci(n) {
 console.log(fibonacci(2));
 console.log(fibonacci(3));
 console.log(fibonacci(8));
+console.log(fibonacci(6));
 
 // Big-O = O(n) => Linear
