@@ -21,3 +21,5 @@ const arr = [8, 20, -2, 4, -6];
 InsertionSort(arr);
 
 console.log(arr); // Output the sorted array
+
+// Big O = O(n^2) => Due to nested loop
